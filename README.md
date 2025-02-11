@@ -14,10 +14,5 @@ Folder Location: ~/.config/gtk-4.0
 Icon themes and cursor themes
 
 Folder Location: ~/.icons
-# Themes
-
-Only if you use Spicetify: Catppuccin theme for Spicetify
-
-Folder Location: ~/.spicetify/Themes
 # Wallpapers
  just wallpapers :P
